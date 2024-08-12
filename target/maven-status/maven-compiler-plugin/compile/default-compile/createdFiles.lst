@@ -1,0 +1,10 @@
+br/ufscar/dc/compiladores/alguma/lexico/AlgumaBaseListener.class
+br/ufscar/dc/compiladores/alguma/lexico/AlgumaParser.class
+br/ufscar/dc/compiladores/alguma/lexico/AlgumaListener.class
+br/ufscar/dc/compiladores/alguma/lexico/AlgumaParser$CmdContext.class
+br/ufscar/dc/compiladores/alguma/lexico/AlgumaParser$TermoContext.class
+br/ufscar/dc/compiladores/alguma/lexico/Alguma.class
+br/ufscar/dc/compiladores/alguma/lexico/Principal.class
+br/ufscar/dc/compiladores/alguma/lexico/AlgumaParser$ProgramaContext.class
+br/ufscar/dc/compiladores/alguma/lexico/AlgumaLexer.class
+br/ufscar/dc/compiladores/alguma/lexico/AlgumaParser$ExprContext.class
